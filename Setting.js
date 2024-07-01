@@ -50,7 +50,7 @@ global.inrl_api = `https://upper-romy-inrl-bot.koyeb.app/`;
 global.blockJids = process.env.BLOCK_JID ||'120363169665426586@g.us' ;
 global.allowJids = process.env.ALLOW_JID ||'120363169665426586@g.us' ;
 global.email     = 'support@maher-zubair.tech' ; 
-global.github    = 'https://github.com/Maher-Zubair/SIGMA-MD' ;
+global.github    = 'https://github.com/Pannelious/SIGMA-MD' ;
 global.location  = 'Lahore, Pakistan' ;
 global.website   = 'https://maher-zubair.tech' ; 
 global.maher_api = process.env.MAHER_API || `https://api.maher-zubair.tech/` ; // MY OWN OFFICIAL API WEBSITE, YOU CAN USE IT IN YOUR BOT OR PROJECT
@@ -67,8 +67,8 @@ global.timezone  = process.env.TIME_ZONE || 'Asia/Karachi' // ADD CORRECT TIMEZO
 //======================[YOUR CHOICE, CHANGE OR LEAVE IT SAME]=====================
 global.sudo  =  process.env.SUDO || "263732872101" ;          // DON'T REMOVE
 global.mztit = process.env.MZTIT ||"♥︎❚MASTERPEACE AI❚🧠♥︎",               // ADD YOUR TITLE, ONE WORD WILL BE MORE BETTER
-global.gurl  = 'https://www.youtube.com/@InnoxentTech?sub_confirmation=1' ; 
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/03e49e6e2057568db8926.jpg' ;
+global.gurl  = 'https://chat.whatsapp.com/F6WW1PdjHPe5hfHX7GfMsp' ; 
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/f69b3287014531835b1b2.jpg' ;
 //=================================================================================
 
 
